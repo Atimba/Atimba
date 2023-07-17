@@ -1,10 +1,19 @@
-- 👋 Hi, I’m @Atimba
-- 👀 I’m interested in ...Web Developement and coding
-- 🌱 I’m currently learning ...Software Engineering
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...via email andyadjartey@gmail.com
+Simple Interest Calculator
+This Python program allows you to calculate Simple Interest, Principal, Rate, or Time based on the provided inputs.
 
-<!---
-Atimba/Atimba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+How to Use
+Make sure you have Python installed. 
+Open a terminal or command prompt and navigate to the directory.
+Run the program 
+
+
+The program will prompt you to choose what you want to calculate - Simple Interest, Principal, Rate, or Time.
+Depending on your choice, the program will ask you to enter the required values.
+After providing the necessary inputs, the program will display the calculated result.
+
+Input Instructions
+For calculating Simple Interest, you need to provide the Principal amount, Rate of Interest (in percentage), and Time period (in years).
+To calculate Principal, you need to enter the Simple Interest amount, Rate of Interest (in percentage), and Time period (in years).
+For calculating Rate of Interest, you must enter the Simple Interest amount, Principal, and Time period (in years).
+To calculate Time period, you need to provide the Simple Interest amount, Principal, and Rate of Interest (in percentage).
+
